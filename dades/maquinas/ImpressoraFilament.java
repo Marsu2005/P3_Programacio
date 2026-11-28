@@ -1,3 +1,4 @@
+package maquinas;
 public class ImpressoraFilament extends Maquina {
     private static final int DURADA_MAXIMA = 24; // hores
     private static final double PREU_HORA = 1.5; // €/hora

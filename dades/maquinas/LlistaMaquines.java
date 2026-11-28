@@ -1,3 +1,4 @@
+package maquinas;
 public class LlistaMaquines {
     private Maquina[] llista;
     private int numMaquines;
